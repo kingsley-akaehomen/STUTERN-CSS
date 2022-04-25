@@ -1,4 +1,13 @@
 
-* {
-    color: aqua;
+
+#headerone {
+    color: green;
+}
+
+#headertwo {
+    color: blue;
+}
+
+.redtext {
+    color: red;
 }
